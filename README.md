@@ -14,7 +14,7 @@ This section details the repository's capstone project.
     1.  **Data Cleaning:** Handled missing values (e.g., using mean imputation) and corrected data types.
     2.  **Exploratory Data Analysis (EDA):** Visualized feature distributions and correlations to identify key predictors.
     3.  **Feature Engineering:** Created new features (e.g., debt-to-income ratio) to improve model performance.
-    4.  **Modeling:** Trained and evaluated several classification models, including Logistic Regression, Random Forest, and XGBoost.
+    4.  **Modeling:** Trained and evaluated several classification models, including Logistic Regression, Random Forest.
     5.  **Evaluation:** Used metrics like **Accuracy**, **Precision**, **Recall**, and the **AUC-ROC curve** to select the best-performing model, paying close attention to the cost of false negatives.
 * **Key Findings:** [Summarize the result. e.g., "The final XGBoost model achieved an AUC score of 0.82, successfully identifying key drivers of default, such as..."]
 
