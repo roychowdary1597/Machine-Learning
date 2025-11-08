@@ -41,7 +41,7 @@ This section includes smaller, focused exercises and implementations of specific
 
 ## 🔧 Technologies & Libraries Used
 
-* **Python 3.x**
+* **Python **
 * **Pandas:** For data manipulation and analysis.
 * **NumPy:** For numerical operations.
 * **Scikit-learn (sklearn):** For machine learning models, preprocessing, and metrics.
